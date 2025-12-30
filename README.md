@@ -1,4 +1,4 @@
-📌 100 Algoritmos — Curso em Vídeo
+# 📌 100 Algoritmos — Curso em Vídeo
 
 Lista de algoritmos em pseudocódigo (Visualg) para praticar lógica de programação.
 
