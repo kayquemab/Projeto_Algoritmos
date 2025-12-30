@@ -37,8 +37,8 @@ Algoritmos
 
 📌 Observações
 
-Projeto feito para estudo e prática
-Requer Visualg 3.0 para executar os arquivos
+* Projeto feito para estudo e prática
+* Requer Visualg 3.0 para executar os arquivos
 
 ---
 
