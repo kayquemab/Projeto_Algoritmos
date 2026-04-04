@@ -1,47 +1,27 @@
-# 📌 100 Algoritmos — Curso em Vídeo
+# 📌 100 Algoritmos
 
-Lista de algoritmos em pseudocódigo (Visualg) para praticar lógica de programação.
-
----
+Coleção de algoritmos em pseudocódigo para prática de lógica de programação.
 
 ## 🚀 Tecnologias
 
-* Visualg 3.0
+* Visualg
 * Algoritmos
-
----
 
 ## ✨ Funcionalidades
 
-* Listagem de algoritmos em pseudocódigo
-* Exercícios focados em lógica de programação
-* Organização por temas ou níveis de dificuldade
-
----
+* Exercícios de lógica
+* Organização por níveis de dificuldade
 
 ## ⚙️ Como executar
 
-```bash
-# Clone o repositório
-git clone https://github.com/kayquemab/Projeto_Algoritmos
+Abrir o programa Visualg, carregar os arquivos `.alg` e executar os algoritmos
 
-# Entre na pasta do projeto
-Algoritmos
+## 📌 Observações
 
-# Abra o Visualg 3.0
-
-# Execute os arquivos .alg dentro do Visualg
-```
-
----
-
-📌 Observações
-
-* Projeto feito para estudo e prática
-* Requer Visualg 3.0 para executar os arquivos
-
----
+* Requer Visualg instalado
+* Foco em desenvolvimento de raciocínio lógico
 
 ## 👤 Autor
 
-Criado por **Gustavo Guanabara** | Desenvolvido por **Kayque Miqueias**
+* Criado por **Gustavo Guanabara**
+* Desenvolvido por **Kayque Miqueias**
